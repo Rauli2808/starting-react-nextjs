@@ -1,0 +1,25 @@
+html {
+  padding: 10px;
+  margin: 0 auto;
+  width: 90%;
+}
+
+.center {
+  text-align: center;
+}
+
+th {
+  text-align: left;
+  font-size: large;
+}
+
+.rows {
+  border: 2px solid red;
+}
+
+input {
+  width: 50%;
+  box-sizing: border-box;
+  margin: 10px;
+  font-size: large;
+}
